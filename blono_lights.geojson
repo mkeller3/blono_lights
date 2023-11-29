@@ -1,0 +1,356 @@
+{
+    "type": "FeatureCollection",
+    "name": "blono_lights",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Holtz’s Christmas Display",
+                "description": "1210 W Hovey Ave, Normal, IL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.0054002,
+                    40.5025644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Uptown Normal Christmas Lights",
+                "description": "Uptown Normal decorated in Christmas lights."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.9843879,
+                    40.5093076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Christmas Lights",
+                "description": "308 Goldenrod Rd, Bloomington, IL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.0086904,
+                    40.4511117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Christmas Lights",
+                "description": "603 S Mercer Ave, Bloomington, IL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.9631851,
+                    40.4727067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Christmas Lights",
+                "description": "43 Stonebrook Ct, Bloomington, IL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.9335088,
+                    40.4630136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Christmas Lights",
+                "description": "3307 Monticello Rd, Bloomington, IL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.9147311,
+                    40.510271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Christmas Lights",
+                "description": "2001 Haverhill Country Club Park, Normal, IL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.9498691,
+                    40.5438172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Christmas Lights",
+                "description": "901 Shelbourne Dr, Normal, IL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.9737671,
+                    40.5248645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Christmas Lights",
+                "description": "1604 Aurora Way, Normal, IL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.9910537,
+                    40.5298376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Clark on Bakewell - Christmas Lights",
+                "description": "1101 Bakewell Ave, Normal, IL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.9943007,
+                    40.5248581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Christmas Lights",
+                "description": "1311 W Hovey Ave, Normal, IL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.0071248,
+                    40.501124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Christmas Lights",
+                "description": "9017 Deer Ridge Dr, Bloomington, IL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.0958939,
+                    40.48287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Christmas Lights",
+                "description": "9057 Gemini Dr, Bloomington, IL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.0963911,
+                    40.4987581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Christmas Lights",
+                "description": "607 Thomas Dr, Heyworth, IL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.9849854,
+                    40.3130628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Christmas Lights",
+                "description": "9336 Wilshire Ln, Bloomington, IL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.8938352,
+                    40.4175145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Christmas Lights",
+                "description": "6932 N 2850 East Rd, Le Roy, IL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.716984,
+                    40.3851357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Christmas Lights",
+                "description": "305 E Wall St, Lexington, IL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.7779952,
+                    40.6443862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Wild Lights (Miller Park Zoo)",
+                "description": "Christmas Lights at Miller Park Zoo."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.0057157,
+                    40.4694285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Christmas Lights",
+                "description": "1517 Augusta Dr, Normal IL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.9691129,
+                    40.5270251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Christmas Lights",
+                "description": "1816 Chuck Murray Drive, Normal IL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.9757621,
+                    40.5364591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Christmas Lights",
+                "description": "1216 S Linden St, Normal IL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.9818734,
+                    40.4968539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Christmas Lights Display",
+                "description": "3316 Peppertree Ln, Bloomington, IL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.9136349,
+                    40.5148937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Christmas Lights",
+                "description": "2214 Tyler Trail, Bloomington, IL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.897734,
+                    40.511521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Christmas Lights",
+                "description": "2909 Carlene Dr, Bloomington, IL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.9274162,
+                    40.4923607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Christmas Lights Display",
+                "description": "3202 Rusty Ln, Bloomington, IL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.9172458,
+                    40.5095364
+                ]
+            }
+        }
+    ]
+}
