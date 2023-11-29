@@ -1,0 +1,10 @@
+[
+    {
+        "name": "a",
+        "latitude": 40,
+        "longitude": -88,
+        "description": "text here",
+        "number_of_lights": 1000,
+        "photos": []
+    }
+]
